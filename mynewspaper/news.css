@@ -1,0 +1,299 @@
+		<style>
+			body {
+				background: rgb(214, 187, 161);
+				}
+
+				h1, h2, h3 {
+				font-family: georgia, serif;
+				}
+
+				header h3.A {
+				margin: 0;
+				color: rgb(143, 141, 141);
+				font-size: 32px;
+				padding: 0 0 8px 0;
+				border-bottom: 3px solid #bbb;
+				}
+					header header h1.title {
+				color: #004A83;
+				
+				margin: -15px 0 0 0;
+				padding: 0;
+				font-size: 164px;
+
+
+				}
+				header header h1.title span {
+				color: #98BCDB;
+				margin-right: -0.2em;
+				}
+
+				header header h2.website {
+				margin: 1px 0 48px 0;
+				color: #98BCDB;
+				}
+
+				header header {
+				text-align: right;
+				}
+
+
+
+				header h3.A span {
+				color: rgb(255, 112, 0);
+				}
+
+				h1.headline {
+				font-weight: normal;
+				font-size: 66px;
+				margin: 0 0 58px 0;
+				}
+
+				h2.subhead {
+				font-weight: bold;
+				font-size: 26px;
+				}
+				.published {
+				float: left;
+				display: block;
+				margin: 7px 0 0 0;
+				width: 155px;
+				font-family: georgia, serif;
+				}
+				.published p {
+				margin: 4px 0 10px 0;
+				}
+
+				.published time {
+				color: #004A83;
+
+				}
+
+
+				.container {
+				background: rgb(247, 246, 240);
+				position: relative;
+				margin: 0 auto;
+				width: 1400px;
+				padding: 10px 30px;
+				}
+				div.block1 {
+				border-bottom: 8px solid black;
+				padding-bottom: 6px;
+				margin-bottom: 6px;
+				}
+
+				
+
+				div.break {
+				clear:both;
+				}
+
+				
+
+				.columns2 {
+				width: 544px;
+				float: left;
+				padding-right: 6px;
+				border-right: 1px solid #BEB8B8;
+				margin-right: 6px;
+				position: relative;
+
+				}
+
+				article p {
+				margin: 0.25em 0;
+				line-height: 16px;
+				}
+
+				
+				
+				.byline {
+				
+				border-top: 1px solid;
+				padding: 6px 0;
+				font-weight: bold;
+				padding-bottom: 20px;
+				}
+
+				article.cols4 {
+				
+				column-count:4;
+				
+					   }
+
+				.cols4 figure img {
+				width: 100%;
+				border-top: 1px solid #ccc;
+				border-bottom: 1px solid #ccc;
+				}
+
+				.cols4 figure {
+				width: 100%;
+				overflow: visible;
+				}
+
+				.cols4 figcaption {
+				font-weight: normal;
+				font-size: 19px;
+				font-family: georgia;
+				}
+
+				.columns4 {
+				width: 1088px;
+				float: left;
+				padding-right: 6px;
+				border-right: 1px solid #BEB8B8;
+				margin-right: 6px;
+				position: relative;
+				}
+				
+
+				
+				
+				div.news {
+				width: 460px;
+				background: rgb(172, 162, 122);
+				height: 200px;
+				position: relative;
+				margin: 5px 0;
+				
+				float: left;
+				margin: 0 5px;
+				}
+
+				div.news h1 {
+				color: white;
+				margin: 0;
+				padding: 5px;
+				font-size: 22px;
+				}
+
+				div.news h2 {
+				margin: -7px 0 0 0;
+				padding: 5px;
+				font-weight: normal;
+				font-size: 22px;
+				}
+
+
+			
+				div.borgen {
+				margin: 0 0 0 5px;
+				}
+
+				div.student{
+				margin: 0 5px 0 0 ;
+				}
+
+				div.news figure {
+				position: absolute;
+				margin: 0;
+				bottom: 0;
+				right: 0px;
+				width: 230px;
+				overflow: hidden;
+				}
+
+				div.news figure img {
+				height: 200px;
+				display: block;
+				width:500px;
+				}
+
+				div.news figure.background {
+				position: absolute;
+				left: 0;
+				width: 100%;
+				
+				height: 130px;
+				}
+
+				
+
+				div.pop.news figure {
+				width: 455px;
+				height: 130px;
+				}
+
+				div.pop.news figure img {
+				height: 150px;
+				width:500px
+				}
+
+				
+
+				
+
+				figure {
+				overflow: hidden;
+				margin: 0;
+				padding: 0;
+				}
+				figure img {
+				height:600px;
+				width:600px;
+				}
+
+				figcaption {
+				position: relative;
+				font-weight: bold;
+				font-size: 15px;
+				}
+
+				.columns2.mark h3 {
+				position: absolute;
+				right: 0;
+				z-index: 2;
+				top: -67px;
+				background: #f1f1f1;
+				padding: 6px;
+				font-size: 24px;
+				font-weight: normal;
+				}
+				
+				
+				.columns2.mark h2 {
+				
+				color:#dc1515;
+				font-size: 30px;
+				margin: 0;
+				padding: 2px 0 20px 6px;
+				
+				}
+				.c h1 {
+				text-align: left;
+				font-weight: normal;
+				font-size: 43px;
+				margin: 0 0 70px 0;
+				}
+				
+				.cont {
+				border-top: 1px solid #BEB8B8;
+				margin: 10px ;
+				padding: 2px 0;
+				font-weight: bold;
+
+				}
+				.continue {
+				
+				margin: 10px ;
+				padding: 2px 0;
+				font-weight: bold;
+
+				}
+
+				div.foot {
+				border-top: 3px solid black;
+				margin-top: 20px;
+				}
+
+				.firstcharacter { float: left; font-size: 75px; line-height: 60px; padding-top: 4px; padding-right: 8px; padding-left: 3px; font-family: Georgia; }
+
+				img.adv {
+				width: 197px;
+				height:200px;
+				margin-left: 32px;
+				}
+					
+		</style>
